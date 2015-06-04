@@ -1,0 +1,64 @@
+[m[34;47m §@ªÌ [37;44m turtleknight (turtle)                                      [34;47m ¬ÝªO [37;44m DSLR [m
+[m[34;47m ¼ÐÃD [37;44m Re: [°ÝÃD] flickr ªº¾U¤Æ°Ñ¼Æ ?                                         [m
+[m[34;47m ®É¶¡ [37;44m Sun Jan  4 21:47:06 2009                                               [m
+[m[36m¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w[m
+[m
+[m[32m¡° ¤Þ­z¡maloke (¤H¥Í¦³¤@¥b¬O¥¢¯v)¡n¤§»Ê¨¥¡G[m
+[m[36m: ½Ð°Ý¦³¨S¦³ªO¤Í¬ã¨s¹L flickr ÁY¹Ïªº¾U¤Æ°Ñ¼Æ ???[m
+[m[36m: ¥Lªº¾U¤Æ¬Ý°_¨Ó¤ñ¤@¯ëªº¾U¤Æ¦n¬Ý¦h¤F...¤£ª¾¹D¬O°µ¤F¤°»ò³B²z ??[m
+[m
+[m°Ú«¢ ªá¤FÆZ¤[®É¶¡ ²×©ó§ä¨ìflickr¾U¤Æªº¯µ³Z¤F :D
+[m
+[m®Ú¾Úzeolite¤jªº½u¯Á¡A¦A¥[¤W¤§«e²Ö¿nªº¸ê®Æ
+[m
+[m§Ú¥Îimagemagick (command line tool)°µ¥X¨Ó«Ü¬Û¦üªº¾U¤Æ®ÄªG
+[m
+[m°£¤FÁY¹Ï¤ÞÀº¥Îlanczos¤§¥~¡AÁÙ¦³¤@­Ó­«­nªº¨M©w©Ê¦]¯À
+[m
+[m¨º´N¬O§Q¥Îimagemagick¤º«ØªºblurÂoÃè¡A®ø°£ÁY¹Ï¥²µM²£¥Íªºblur²{¶H
+[m
+[m¦³¿³½ìªº¥i¥H¬Ý¤@¤U³o¸Ì¡G
+[mhttp://www.imagemagick.org/Usage/resize/#filter_blur
+[m
+[mblur¬Oresize¥²µM·|µo¥Íªº²{¶H¡A¥Îgaussian filter¥i¥HºÉ¶qªº®ø°£
+[m
+[m©ñ¤jªº¸Üfilter value­n³]©w¤j©ó¤@ ÁY¤pªº¸Ü´N­n³]©w¦¨¤p©ó¤@
+[m
+[m
+[m´N§Ú¹êÅçµo²{¡AÁY¤p¨ì800x600¡Avalue³]­q¦¨0.3´N¥i¥H²£¥Íµ²¹ê¾U§Qªº¼v¹³
+[m
+[m¦P®É¤S¥i¥HÁ×§K¼Æ­È¤Ó§C²£¥ÍªºÃä½t¿÷¾¦
+[m
+[m
+[m
+[m§Ú²q¤W­±ªº±Ô­zÀ³¸Ó«ÜÃøÀ´§a
+[m
+[m³Ìªñ¤ñ¸û¦£
+[m
+[m¨Ì¾Ú¥H©¹ªº¸gÅç Á¿­þ­ÓÃè¤ñ¸û¾U§Q¡A¤ñ¸û¶Q ¤j®a¤~·|¤ñ¸ûhi
+[m
+[m¦pªG¦³¤H¯uªº¹ï³o­Ó³Ì«á¼v¹³§e²{¨M©w¹³¦]¤l resize vs sharp¦³¿³½ìªº¸Ü
+[m
+[m§Ú¦A¼g¤@½g§¹¾ãªº±Ð¾Ç§a XD
+[m
+[m--
+[m        [1;32;42mMy Fotolog[31;41m:[m http://fototurtle.blogspot.com [1;30m;)[m
+[m
+[m--
+[m[32m¡° µo«H¯¸: §å½ð½ð¹ê·~§{(ptt.cc)[m
+[m¡» From: 123.192.10.229
+[m[1;31m¡÷ [33mturtleknight[;33;40m:¶ý§r §Ë§¹Ä±±ophotoshop¯u¬O¼o§÷XD                  [m 01/04 21:47
+[m[1m±À [33moy01[;33;40m:±À!!´Á«Ý§¹¾ãªº±Ð¾Ç~~!                                     [m 01/04 21:52
+[m[1m±À [33mHinoki[;33;40m:!!push!!                                                [m 01/04 22:26
+[m[1m±À [33mpeteroy[;33;40m:±À!!¤@ª½Ä±±oflickrªºÁY¹Ï¶W¯Å±j®«......´Á«Ý§¹¾ã±Ð¾Ç!!^^ [m 01/04 22:39
+[m[1m±À [33maloke[;33;40m:±À¤@­Ó ~ sharpen ¤è¦¡¤]¦n¦hºØ...³o¨Çºtºâªk¤]¤Ó±M·~¤FT_T  [m 01/04 22:43
+[m[1m±À [33mgrasses[;33;40m:±À~ ´Á«Ý¤¤                                             [m 01/04 22:45
+[m[1m±À [33mshingoliang[;33;40m:±À¡ã¬Ý¨ì³o¨â½g¡A´N·Q¨ì¥h¦~­×ªºDIP¡A¼ô±xªº·PÄ±XD    [m 01/04 22:54
+[m[1m±À [33malexoreo[;33;40m:¦n·Qª¾¹D§ó²`¤J                                        [m 01/04 23:31
+[m[1m±À [33mzeolite[;33;40m:¶¶«KÁ¿¤@¤UUSM«ç¼Ë¡H(¤£¬OCanonªº°¨¹F)                   [m 01/04 23:52
+[m[1m±À [33mSniperF[;33;40m:§Æ±æ§¹¾ã+1                                             [m 01/05 04:25
+[m[1m±À [33mjbbb[;33;40m:±À ´Á«Ý§¹¾ã±Ð¾Ç+1                                         [m 01/06 16:16
+[m[1m±À [33maloke[;33;40m:±À  ¦¬¤åºK                                               [m 01/14 13:29
+[m[1;31m¡÷ [33mwliu[;33;40m:­è­è¤~µo²{­ì¨Ó§Ú¦b¬Yª©¦^¹Lªº¤@½g¤]¬O¦^§Aªº¤åXD¯u¥©        [m 01/14 13:36
+[m[1;31m¡÷ [33mwliu[;33;40m:¬Ý¨Ó¤]¬O¦³¤£¤Ö¤H¦b¬ã¨sflickrªºÁY¹Ï¸ò¾U¤Æ                  [m 01/14 13:37
+

@@ -1,0 +1,33 @@
+作者: shyn (寧靜以致遠)
+標題: [轉錄]Re: 高度計
+時間: Tue May 22 17:39:20 2001
+
+※ 本文轉錄自 [mountain] 看板
+
+發信人: harris.bbs@bbs.cis.nctu.edu.tw (BBS), 看板: mountain
+標  題: Re: 高度計
+發信站: 交大資科_BBS (Mon May 21 21:54:56 2001)
+轉信站: elfBBS!news.ntnu!ctu-peer!news.nctu!news.cis.nctu!cis_nctu
+Origin: sh75-167.dialup.seed.net.tw
+
+==> 在 rodwang.bbs@linux.cmc.edu.tw (la Arcadia) 的文章中提到:
+> 【 在 loveravel.bbs@bbs.csie.nctu.edu.tw (ravel) 的大作中提到: 】
+> 當然，如果高度是GPS提供的，那就跟氣壓沒有干係了。
+
+  No no..  GPS 的高度也會隨天氣或是你是否有 cover 而變...
+原理有點類似於波動的折射原理, 介質不同,電磁波速度就會不同...  而且
+GPS衛星信號來自四面八方, 基本上無法有規律.  軍用頻道是否準我就不知道了.
+用 WAAS 準不準我就不知道了.  理論上會有很大的改善.
+
+  還有 GPS 算高度的是從某個基準點算上去, depends on 運算 alogrithm,
+有些把地球當成圓的, sometimes 橢圓.  而高度是由"海拔"來算的.  海平
+面高度在全球又不一樣(聽過巴拿馬運河的故事吧?)
+
+  所以, 重要的是, 不論你用 GPS 還是氣壓式的高度計,   有機會就要 calibration
+一下.  我記得 CASIO 手表有特別警告這一點.  Garmin GPS上的高度計也說是
+參考值.
+
+  又寫了一堆跟登山無關的東東啦~
+--
+--
+ * Origin: ★ 交通大學資訊科學系 BBS ★ <bbs.cis.nctu.edu.tw: 140.113.23.3>

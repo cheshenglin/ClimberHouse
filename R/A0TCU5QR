@@ -1,0 +1,22 @@
+發信人: harris.bbs@bbs.cis.nctu.edu.tw (BBS), 看板: mountain
+標  題: Re: 請問GPS選購？
+發信站: 交大資科_BBS (Thu Mar  8 22:15:55 2001)
+轉信站: elfBBS!news.ntnu!ctu-gate!news.nctu!ccnews.thu!news.cis.nctu!cis_nctu
+Origin: 211.74.77.26
+
+==> 在 cygnet@cis_nctu (小呆鵝) 的文章中提到:
+> ==> 在 tzou.bbs@bbs.csie.nctu.edu.tw (太極火種) 的文章中提到:
+> > 幾個名詞似懂非懂有待釐清:
+> > 1.TWD67
+> > 2.TWD97
+> > 3.WGS84
+> > 4.GRS67
+
+  這些都是基準點的不同吧..  TWD67是1967年所量的, TWD97我就沒聽過了...
+WGS84是美國在1984年所定的基準點.
+  基準點不同得出來的經緯度會不一樣, 因為每個國家都想建立自己的 data base..
+用GPS改一改就可以看得出來不一樣了.
+
+--
+--
+ * Origin: ★ 交通大學資訊科學系 BBS ★ <bbs.cis.nctu.edu.tw: 140.113.23.3>

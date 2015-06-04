@@ -1,0 +1,739 @@
+作者: past (我要上台北) 看板: ClimberHouse
+標題: [轉錄]利用GPS登山健行
+時間: Sat Mar 29 16:55:24 2003
+
+作者: Diffen (風起雲舞) 看板: MountClub
+標題: [轉載]利用GPS登山健行
+時間: 海大計中 BBS (Thu Feb 13 09:24:00 2003)
+
+原文轉自http://www.keepon.com.tw/登山補給站
+
+作者:cygnet                         作者小站:http://gpsfun.netfirms.com/
+
+利用GPS登山健行
+　
+
+【前言】
+
+　　常言道：「登山有三寶，指北針、地圖、高度計！」並不是說其他裝備就不重要
+，每樣裝備都有其功能及迫切性，但就較常發生的迷途而言，確實是保命的工具，其
+他像手錶(時鐘．鬧鐘)，也很重要，沒有它你就不知時間，無法預計行程，尤其是冬
+季日照短，萬一沒帶錶不知時間，稍不留意，藍天一下子就變黑，實在很危險， 而
+且台灣地形複雜，道路常無標示或標示不清、錯亂，尤其鄉間道路，產業道路、農路
+往往難分主線或支線，山區除林道外，還有獵路、動物的路徑、土石流沖出的小徑…
+…，而且有些地方整個山頭都是一樣的植被、農作物、檳榔樹、果樹、竹林、人造林
+、芒草…等， 這些2D的環境，周遭看來都差不多！如巧遇氣候不佳，加上信心不足
+，往往就會迷途發生。
+
+　　登山健行很耗力氣，但要找到正確的登山口，有時卻要花費更多的時間與力氣。
+因為經過天災變動及人為開墾的破壞， 即使是天生具方向感善記的高手，面對物移
+環境變動也是無能為力，稍有不慎就錯過正確路線，除了開路外，往往必須花費數倍
+的時間來補正返回原途！GPS無法保證不出錯，但卻能輔助將嘗試錯誤的風險降低，
+至少它還有記憶功能 ，可幫助你平安地退回原處。
+
+      2000.5.1.美國關閉Selective Availability (SA)後，精度已大幅提高，但還
+是不要太輕視山區的潛在危險，不論是高山、中級山、郊山、溪邊、野外活動，「安
+全」還是最重要的。安全要求就是要100%，不容許有絲毫的差錯，即使是常去的區域
+，以前如何地熟悉並不能一定保證，後面未知的情況！
+
+　　因國人普遍缺乏安全防護的概念，到風景區一時興起就要登高望遠去，連路程多
+遠，路況如何？都不先弄清楚，這也難怪在野外常見斷掉丟棄的鞋子，也許有人會說
+只是走走，太難走就回頭，沒什麼大不了，但卻未想到，除了體力外，還有 可能遇
+到動植物傷害的意外、天氣因素等，而且山區不比平地，日落後天黑不見五指，連回
+頭都很難，氣溫會也變低。登山健行即使可循路標、路條前進，也要判斷一下方位，
+避免走到支線，尤其是登山路線很多的山岳，再次呼籲探堪登山隊伍務必撤回失效的
+路條以免誤人，山友也要有愛山的觀念，而不是競相在山頂綁路條，還是要用在該用
+到的地方。
+
+【GPS 的選用】
+
+         登山用的GPS 選購，重點當然是適合野外使用，本文主要是討論手持型GPS
+接收器，但並不排斥PPC(PDA)的適用性，但還是有一些環境因素的差異。當然PPC是
+越做越輕小，比某些手持型GPS要來得輕，也是手持裝置之一，反之GPS種類眾多，車
+用、船用，自己攜帶方便也沒人管你。
+
+重量體積—電源(耗電)—接線—防水—耐震—操作方便性—價格—收訊強度
+
+1.防水性是必要的，也有不但防水，而且可以漂浮在水面上的。
+IPX7是一般戶外型的基本標準 ，在水下一公尺，30分鐘不會進水，但一些 IPX2 (防
+水氣)級，基本上也沒什麼大礙。
+
+2.防震性也是必要的，目前已有類似全包橡膠，一般手持機種在野外掉下，只要不砸
+到螢幕，大概都沒問題。外形質感如何，則是見仁見智，以適合自己為原則，做工越
+好的表示品質較有保障。
+
+3.螢幕是否清晰易讀、體積、重量等，彩色較不適合野外，重量、體積關係到使用時
+的操作，基本上只要能攜帶，如用臂套、背帶、背包…等相配合應較沒問題。一般也
+都有快速操作鍵 ，操作介面如何，按鍵分布是否方便使用。按鈕很重要，最好親自
+操作一下，因為一定要按鈕操作，使用下來成千上萬次，橡膠材質容易劣化，品管就
+很重要，發現反應遲頓、過快，最好去更換。
+
+4.電池持續力，是否可用外接電源，螢幕越大愈耗電，顯示不佳常用背光也會耗電，
+另外大家常未注意的操作介面，越難使用(看個資料按兩個鍵和五個鍵差很多)、人為
+錯誤多，自然耗電。廠商的資料通常是指AK電池、一般不動不作下的數值，用充電電
+池及實際使用狀況(切換畫面頻繁、建點、訊號搜尋…)要再打個折，可利用數位相機
+行動電池組改裝接線，小弟利用POWER 2000鋰電池，效果還不錯，又可和數位相機共
+用。
+
+5.記錄航點的多寡？是否支援外插記憶體？注意這些容量大都只是用來放電子地圖，
+並無法用來存更多的航點、航跡等(大部分的機種，也有某些廠牌是放在記憶體上，
+可無限抽換)，可不是說我裝了128MB的記憶體，那可存的航點就增多。航點多，可定
+位點多，事前可輸入參考點位也較多，500個以上應該是夠用，但航跡內可記載的航
+點數目及航跡數目就很重要，是否可設定記錄模式？航線內可設定的航點數目，關係
+到導航的細部，可記錄航線數目多寡，關係使用彈性。總之，航點、航跡、航線數量
+，愈多愈好。目前已有諸存在記憶卡的機種，航點數、航線數為『無限』，只要你記
+憶容量夠。但動態記錄航跡的航點數好像還沒有無限的，未來的變化是可期待的。
+　
+
+6.收訊強弱，在樹葉遮蔽下，收訊是否良好，是否可外接天線？必須可同時接收至少
+12個接收頻道，不要買到舊機種或停產的機種，至於可否接收WAAS，在台灣將來也許
+有用。山中因地形、遮蔽物關係，有時必須外接主動天線以接受微弱信號。 衛星訊
+號來自天空，唯一能做就是加高天線位置(背著竹竿好像很奇怪？但位置愈高，收到
+愈多顆的機會愈大)，或轉個方向，可由GPS上的衛星圖來判斷，也有DOP因子可供參
+考，一般而言，衛星須分布在三個象限以上，才有可能較良精度，在正頭頂的對高程
+有助益。 有些人也許很在意收到幾顆衛星，但經小弟實地測試，即使收到12顆衛星
+，位置分佈差時，誤差也很大，而多寡並不代表一定較準，因為您不知道各牌各機型
+的運作(訊號過濾選擇)方式。 基本上一開機只要時間日期正確，GPS 由衛星校正星
+曆後，顯示的就是各衛星的編號，只要收到三顆衛星，至少可2D，一般使用者通常很
+在意衛星的數目，卻忽略所在位置的地形因素，以及明白自己機子天線的種類及特性
+，有些具指向性，應比較各攜帶方式(胸前、肩上、腰上…)的效果，而且也曾向廠商
+建議在收訊不佳時應停止接受訊號而不是亂跳到太平洋中。由於 tracklog 是自動記
+錄，一旦沒訊號斷掉會成空白或重疊位移(常在之型山繞發生)，只能靠自己隨時注意
+環境變化及GPS狀況、勤快些多 mark 一些點，也要注意行進的方位。
+WAAS 在歐洲是EGNOS，有些也支援此系統。
+http://www.garmin.com.tw/aboutGPS/waas.html
+　
+
+7.內建地圖與否？但目前各廠商根本未出台灣地形圖，雖強調詳細的內建電子地圖，
+大都是交通路線為主，郊外山區還是一片空白。資料庫也未完整，但可LOAD上傳地圖
+的機種，保有未來擴充的空間，另外最小比例尺可至5m以下的自然比50m的有較細緻
+的顯示，雖然精度無法達到三公尺。 中文地圖對使用者相當有用，地物也有利於判
+定方位。國外已開發上傳自製地圖的程式，地圖不詳細，自己 DIY。目前有登山用
+TOPO地圖產品都在美國，小弟用過 TOPO USA，只能用嘆為觀止來形容。
+登山者通常很在意等高線圖，但GPS定位，除位置的精度外，高程的精度較差，不知
+廠商是否有改進的技術，位置差個30公尺也許就是山溝和懸崖的差別，無法確定高程
+下，加上國內因國防…種種因素，地圖錯誤甚多，其實還是參考為主，國外也有以地
+圖鎖高程值的，即以你所在位置，可顯示內建高程資料，以美國產品來說通常是十萬
+分之一，台灣較小，如果廠商願意開發，應可以更精細。
+
+8.LCD顯示幕的解析度和尺寸大小、背光顏色……等，面積大、解析高，自然顯示的
+資料就較多，航點、航跡等的控制介面很好，可選擇是否顯示，對航線的下航點也能
+提供有助的資訊，畫面能提供較多的欄位，可避免經常切換的問題！ 「眼見為憑」
+，千萬不要被廣告詞所迷，四色≠彩色，單色也有黑白及灰階的差別，有些背光是兩
+段或多段，亮度如何！ 是否可調整…
+　
+
+9.電子羅盤和氣壓計不是GPS 的標準配備，不是每一台GPS 都有。利用高斯地磁感受
+元件及電子壓力晶片，也有裝溫度感測器的。雖然每台GPS大都有羅盤晝面，但不一
+定有電子羅盤，有些 sale 自己也不清楚。那個羅盤畫面是相對羅盤，就是說靜止時
+就凍住沒作用，只有在行進時方運作。
+
+10.支援TWD67 台灣的大地坐標系統，而不是只有WGS84，坐標顯示格式最好有UTM、
+TM2…等方格坐標格式，如有user grid 也可自定格式。【此點非常重要，除非你不
+配合紙圖使用】登山不帶紙圖，不能說危險，但不是太自大，就是有些無知。
+建議比例尺五萬分之一即可，簡圖、紙筆，小記資料數據…寧多勿缺。
+　
+
+11.資料傳輸，GPS資料是否可傳至PC做後續處理，或由PC規畫路徑後傳入，使用串列
+埠、平行埠、還是USB埠…。除了傅輸線外，是否附光碟或搭配購買該公司的CD及編
+輯軟體，或是利用網路一些應用軟體， 免費軟體 GPS TrackMaker 可支援的機種，
+也是可考慮參考指標之一， 是否須用專屬軟體程式，及須另行購買。
+
+12.記錄的資料內容細節，因為各家各機種都不儘相同，一般而言，坐標位置是必要
+的，高度(不一定要有高度計)、記錄時間、航點敘述、方位、速度……。
+【注意：記錄的資料並不代表可顯示的資料，通常接收器以上的資料都有，有些是存
+在動態航跡內，但存成航跡後會被略化而消失】 通常因廠商的市場策略或硬體限制
+，坐標一定有，但高度、記錄時間、敘述欄位…則不一定，一定要弄清楚。
+
+13.軔體升級的問題，雖說版本穩定最重要，但經常更新表示廠家重視此產品，通常
+除非大變動須送回廠，一般皆可經由網路下載更新程式，更新軔體版本。
+【到各家廠商網頁參觀，先下載使用手冊，看網站規模、產品資訊、是否提供更新…
+，可為參考！】
+
+【使用方式】
+
+　　使用前必須將所有設定值看一遍，改成公制、溫度攝式…較符合本地習慣，基本
+上設成那一種大地坐標系統，和精度沒有鬧係，但配合你手上的地圖的使用就很有關
+係，兩者必須一致，就看自己的習慣使用那一格式，就必須儘早決定，通常登山健行
+是設成虎子山大地坐標系Taiwan datum (Hu-Tzu-Shan)，顯示格式為Taiwan grid的
+TWD67 二度分帶坐標或經緯度，特別注意是經建版地形圖是TWD67，較新的版本則有
+加註TWD97藍線(只有圖邊)。 使用方格坐標的好處是相對距離、方位很容易看出來。
+當然如果你使用的是掌上型電腦上的電子地圖，有些是以WGS84為製底圖標準就可能
+未提供TM2坐標格式，目前為止，至少尚未有任一廠商有電子地形圖以價格合理問市
+，連GPS接收器大廠也未有意願解決此一問題，也只能說是「台灣人的悲哀」，比照
+國外出GPS接收器能使用的電子地形圖，或開放地圖編集功能上傳至機子上。
+
+　　無論GPS是否內建地圖，基本上只要你善加利用mark航點功能，無論是行前作業
+、事後航跡檢討或實地現場操作，都可達到導引、回溯的基本要求，個人是建議，電
+子的東西還是要有備案比較妥當，你可使用類似TrackMaker之類的軟體編輯路線後，
+再印出紙圖帶者以為備分。當然指北針、其他資料是一定要帶著備用。
+
+GPS 內建電子羅盤，高度計是少數，其精度也不高，但好處就是配合目標導向時，可
+較清楚顯示目標方位，前提還是GPS衛星訊號收訊良好時，如果不良時，GPS接收器鎖
+定的方位應是最後收到的位置，方位也沒什麼意義，但如果你有配合地圖或其他輔助
+工具時，還是很便利。
+　
+
+電子羅盤的運作方式：
+
+因電子羅盤易受電磁干擾，所以仍用 GPS計算出來的方位角度為準，並由使用者設定
+一組速度界限值及時間界限值，當移動速度低於此限，並持續時間超過，它才會將
+GPS的方位角計算功能切換成電子羅盤來導引。當 GPS 信號中斷後，也會切換至電子
+羅盤。
+
+電子羅盤的方位基準可設為：真北、磁北、方格北、自行修正磁偏角。
+
+真北：地球是一個球體，假設有一條地軸貫通中心，地軸北端為北極，由地球表面任
+一點至北極之直線，均指示真正方向，所有的經線均是真北線。[地圖及指北針都沒
+帶時使用]
+
+磁北：指北針所指的方向。[有帶指北針，為求和其一致時使用]
+因兩磁極的位置不等於兩極，故指北針所指的是磁北而非真北，磁極會因時間而不同
+。
+
+方格北：地圖上方格線所確定的北方。[有帶地圖，沒帶指北針時]
+
+特別留意：
+沒有電子羅盤的 GPS靜止時，是無法保證顯示的是正確行進方向，許多使用者，甚至
+店家，看到 GPS有羅盤畫面，就誤以為有指北針功能，這不是正確的，前提是你收訊
+良好，衛星分布佳，行進中…
+
+天體資料
+
+許多內建地圖及天文資料，顯示日月位置天體資料，據此也可判斷方位，但天體如在
+地平線下或氣候不佳情況下則無法判斷。
+
+高程資料是消費型GPS接收器較弱的一環，但問題並不在接收器本身而是實際上很複
+雜。
+內建氣壓式高度計的GPS可以採用高度計數值或配合GPS高程計算海拔高度。
+而不含高度計的大部分GPS接收器顯示的是GPS高度(橢球高)，實際上它如果運作，我
+們局外人也無法得知，但能確定的是較新的機種使用較新的技術，或利用較好的運算
+常式可轉成較接近海拔高度，但前提還是要求得準確的橢球高，而這又和衛星分佈的
+位置、收訊的強弱有關。 所以國外有些的做法是利用下載至GPS的地形圖坐標資料來
+顯示所在位置的高度，除了大地不是完美的橢球面外，台灣本島還因地殼擠壓而上升
+或地盤下陷……
+
+海平面算起的海拔高度近似正高。
+
+正高 ＝ 橢球高 － 大地起伏
+
+除非衛星分布位置恰當，否則一般手持型GPS求不到真正的橢球高，可能差幾公分、
+幾公尺、或幾十公尺，此外也不知道所在的大地起伏。而大地起伏求算方式為利用球
+諧係數描述全球性重力異常，再輔以地方性重力數據。台灣本島以基隆驗潮站平均海
+水面為高程起算基準面。
+衛星測量之基準為WGS84大地系統，衛星測量所得之高程為自WGS84橢球面起算之橢球
+高。
+
+GPS高度值只能供參考！但在收訊不佳的 2D 情況下，高度值不能參考！
+
+內含氣壓計的GPS則是以所處的大氣壓力與海平面大氣壓力差換算出來的每次校正不
+管輸入當時當地已知高度都會轉換成海平面大氣壓力存起來。在氣候變化不大時，誤
+差較小。氣壓式高度計易受大氣變化的影響，必須經常校正。
+
+由於不清楚各廠牌 GPS 使用的修正方式，建議配合高度計使用，或者校正記下已知
+位置高度差推算相對值，一般情況下，兩三小時內應還相當穩定。
+
+GPS開機最重要，一定要在收訊良好的地點！它會以上次關機位置為參考點，並使用
+內建星曆來推估目前上空衛星分布位置，優先接收這些衛星。如果 距離太大則重新
+搜尋衛星，將會由編號一依次找尋，較費時間。
+
+1.求出航點坐標
+
+因為目前尚無內建詳細台灣地形圖的GPS，也沒有相關廠商開發此類的CD-ROM電子出
+版品， 以下載地圖至 GPS，因此要配合其他紙本地圖使用，例如各出版社高山地圖
+、經建版地圖、……或無論是否有標示坐標，都可以利用鉛筆與直尺來畫方格線，求
+出目的地的航點坐標。
+
+「三角點坐標表」
+http://jidanni.org/geo/taiwan_datums/triangpts/twd67/index.html
+http://www2.nsysu.edu.tw/Mountain/trick/triangpts.txt
+
+林務局GIS 查詢
+ http://www.forest.gov.tw/web/GIS/gis-all.htm (經建二版)
+
+林務局林區像片基本圖查詢
+ http://map1.forest.gov.tw/for86-2/forest5k/forest5k.cfm?uid=100000
+
+台灣地區保安林分布圖查詢
+http://map1.forest.gov.tw/for86-2/protect/protect3k.cfm?uid=52534
+
+林務局基站資料
+http://gps.forest.gov.tw/
+
+衛星測量中心
+http://www.gps.moi.gov.tw/indexc.htm  (衛控點及水準點查詢)
+
+河川圖籍
+http://210.69.128.6/Wad/Map/MainMap.cfm?home=home  (空照圖)
+
+台灣二萬五千分之一地形圖數值檔
+http://www.moiland.gov.tw/land/map/index.htm
+http://www.moiland.gov.tw/land/map/Html&Img/25k_topo.htm
+DXF檔261幅  (經建三版)
+
+建地安全及災害管理系統
+http://210.69.204.20/cpa87-2/  (經建二版)
+
+墾丁國家公園土地使用查詢系統
+http://210.69.44.10/landuse/main/login.htm
+
+地質資料整合查詢
+http://210.69.81.68/GSB88-1/begin.htm
+
+請先下載安裝 MapGuide 讀圖軟體
+http://www.gov.pe.ca/mapguide/index.php3
+ http://bus.tpc.gov.tw  [台北縣公車系統 ]
+
+大台北地區登山健行路線圖
+http://163.29.141.191/spo/info/path00.asp
+
+高山部份，有一些資訊網站提供相關坐標，加上高山地圖足供使用。一些登山記錄，
+也有加附避難小屋、重要處所的坐標，中級山比較困難，尤其是人跡罕至的，連登山
+記錄都找不到，而且林相複雜多變，經過幾個月沒人探訪，路徑就被植被完全掩沒覆
+蓋。郊山也要小心，尤其近來幾次 地震風災過後，原有路徑已經改變，登山口找尋
+不易。未來企望有登山網站能收集完整的山岳資料，提供山友查詢，都能快快樂樂的
+出門且平平安安的回家。
+
+另一方式是利用像 GPS TrackMaker 、OziExplorer、GPS Track…等軟體將圖套上，
+變成電子地圖，再規畫航點、航點輸入GPS 內。
+
+GPS TrackMaker 支援TWD 67 可利用各型圖檔為底圖，目前市售的 Papago、魔法地
+圖e-map、台灣通路GogoMap (PC版)電子地圖也可搭配使用規劃航點航線。
+特別留意的是所用的大地坐標，建議先查幾個熟悉的點對照其坐標值以確定格式。
+
+OziExplorer 沒有 TWD 67 須用user grid：
+Latitude Origin 0
+Central Meridian 121E
+Scale factor 0.9999
+False Easting 250000
+False Northing 0
+
+台灣、 琉球嶼、綠島、蘭嶼及龜山島等地區之投影方式採用橫麥卡托投影經差二度
+分帶， 其中央子午線為東經 121 度，投影原點向西平移 250,000 公尺，中央子午
+線尺度比為 0.9999；另澎湖、金門及馬祖等地區之投影方式，亦採用橫麥卡托投影
+經差二度分帶，其中央子午線定於東經 119 度，投影原點向西平移 250,000 公尺，
+中央子午線尺度比為 0.9999
+
+另外在傳輸資料時，格式必須設定為WGS84(詳見其說明)否則會偏移對不準(以Garmin
+為例)
+
+為避免坐標轉換時的誤差，通常還是用筆記本抄下一些重要坐標，供隨時閱覽與對照
+，可將檔案印出，利用上面的方格線及航點資料，當成自製的登山簡圖，尤其對目標
+周遭的山頭，比較有些概念。友人利用航跡代替重要的等高線，航點標示高度作參考
+點輸入GPS 內顯示。在某些情況下，密集的航點可代替航跡，也比較可靠。並配合
+icon 表達當時的地形地況，如叉路和前進方向、周遭景觀。
+
+時間充裕下，則可在敘述上增加補充說明。也可將數位相機校正和 GPS時間同步，隨
+時拍照記錄、定位。另外實際應用GPS時，可用推估法輸入坐標，但必須知道和目標
+間的方位角，再推估距離。
+
+方位、距離、高度、地形、時間是決定所在位置的要項，必須建立航點才可以接著下
+一動作。
+
+　
+
+2.定位導航
+
+使用上 GOTO 是最簡單的，顯示目標直線方位及距離。至於航線規劃，如果沒有已知
+路徑的詳細地圖是無法做到。兩者差在一個目標及朝多個目標逐漸接近目的地，GPS
+自動記載軌跡，有些GPS無法更動設定值，有些是可設定依時間或距離或間隔。間隔
+設為10m 或 5 m，在收訊良好的前提下，航跡就相當細緻，當天來回的行程都夠用。
+自動記錄的航跡，你無法直接讀用，即使有回溯功能的GPS，也不過自動將航跡轉換
+，產生一些回溯航點，你也不知它表示何處，所以必須隨時標記航點定位輔助記憶，
+尤其 GPS 在收訊不佳時，並不會排除這些有問題的資料，還是記下來，所以你看到
+航跡亂跳，就是有可能此情況。 注意航跡和航點是各自獨立運作的，動態航跡更包
+含許多重要的資訊，但存成航跡，因被略化，許多會流失，內含航點也減少，除非必
+要，否則在儲存航跡後，不要隨易清除！讓它使用覆寫模式。
+
+千萬不要為省電因素，開開又關，也不要開機後，什麼都不管，重要叉路、地段還是
+要 mark 註記一下，零星斷裂的航跡(有時是收訊不良造成)，有時太久收不到訊號，
+接收器也可能會自動關機，導引效果會大打折扣，此時就要靠建立的航點來導引了！
+在下是不太認同登山帶著GPS卻不開啟，等要用時再打開，殊不知路徑偏離一定是不
+知不覺的，何況在收訊不佳狀況下，也不一定能完成定位，請注意一定要在收訊良好
+的狀況下初始開啟，並舉手之勞多記下航點。
+其本上，不能說是導航，算是自助導引，因為沒有路徑導不了，自定航線也只能說經
+過哪個點，在導引點有限，路徑不明下，
+此功能相當粗糙，
+
+
+3.回溯(航跡導航)
+
+雖然大部份GPS都有提供此一功能，但通常它是利用現有航跡，產生一些轉折點，在
+起點無法確定下，或是已沿途標記，備而不用居多，但如是迷路，可尋回路徑。
+
+4.附加功能
+
+離山頂的遠近、時間預測，可讓自己掌握行程，日落時間也很重要，尤其是冬天日短
+要注意！里程、下一目標距離、航向、垂直速度、24小時氣壓變化、偏差警示……。
+
+
+5.其他
+
+常有朋友詢問PDA(PPC)與GPS整合或配置等問題，個人以為主要手持裝置通訊、GPS、
+PDA…等領域是有相互整合的趨勢，但不要忘了電子產品功能越多、耗電量、故障率
+…等也相對提高，當然自己覺得喜歡就好，就像廚房刀具，使用者順手就好，您要用
+瑞士刀做菜，也沒有人反對！或是登山用鞋的選擇，也許有人偏好工作鞋、涼鞋、雨
+鞋，不但因人而異，也是因地制宜，答案只能自己去尋找！
+旁人實在無法代勞！
+
+【結語】
+
+GPS 不是什麼神兵利器，地圖、羅盤、高度計都是要另加上去，它才會有其功用，不
+能取代任何器具，尤其是電子零件，如果沒有特別的安置，在零下15度就會失效，更
+別說低溫造成電池有可能更早報銷 ，撞擊或其他地形因素，也會有無用武之地。但
+GPS卻可做到許多你無法分心做到的事，尤其現在產品的多樣性，並不只是提供冰冷
+的坐標值，而是許多額外的資訊，可輔助個人因技能上的不足，防止人為誤判的發生
+，且有相輔相成的功能。
+
+也許你天生具有方向感，也許你受過定向專業訓練，熟悉地圖使用，但想像一下此一
+情景，大霧迷漫的林間、下著大雨眼睛都快睜不開時…，湊巧又路徑不明，可能迷途
+時，你還能鎮定地，打開地圖判斷方位嗎﹖你可找到來時路嗎？退回安全處嗎？
+
+何況有了這些工具，也要熟悉其使用及個人定位技巧，以勤奮的手，用紙筆記載下來
+。時間充裕還可為之，時間緊迫記得清楚就不太可能。常言道「不怕一萬只怕萬一」
+，許多的意外事件，都耗費很多時間及人力在尋找上，如果待援者在第一時間內，報
+出自己受困位置，必可加快效率，未來有更多GSM和GPS結合的產品問市，或是真正衛
+星電話降價至普及的水準，相信登山活動的安全有更好的保障！
+
+PS.
+個人非ＧＰＳ暨登山專業，所有文字謹個人看法，欲深入探究，請參考相關資訊。
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+----------------------------------
+
+【參考資料】
+
+台灣地區五萬分之一地形圖(經建版)，79幅 (五萬分之一)
+台灣地區二萬五千分之一地形圖(經建版)，261幅。
+九二一地震災區衛星影像地圖，12幅，88.12.調繪。 (五萬分之一)
+九二一地震災區衛星影像地形圖，12幅，88.12調繪。(五萬分之一)
+http://www.courant.com.tw/chinese/map_1.htm  (購圖、地圖版本查詢)
+
+
+台灣地區像片基本圖，3773幅。平地及丘陵地區3209幅(五千分之一)．高山地區
+564幅(一萬分之一)
+http://map1.forest.gov.tw/for86-2/forest5k/forest5k.cfm?uid=100000
+
+1/5,000 林班基本圖（含林道及河流分佈圖），約4000幅。
+
+臺灣全圖百科事典，戶外生活圖書編著。(十萬分之一)
+大台北都會生活圈百科全圖，戶外生活圖書。 (街道圖：八千、一萬六千分之一、
+交通圖：十萬分之一)
+桃竹苗生活圈百科全圖，戶外生活圖書。
+大台中都會百科全圖，戶外生活圖書。
+大嘉南都會百科全圖，戶外生活圖書。
+大高雄都會百科全圖，戶外生活圖書。
+宜蘭花東生活圈百科全圖，戶外生活圖書。
+台灣60個都會街道圖，戶外生活圖書。
+台灣地圖集，大輿，2001年。(九萬分之一)
+台灣地理人文全覽圖《北島》《南島》，上河文化，2001年。(五萬分之一)
+台灣高山全覽圖，22幅，上河文化。 (五萬分之一)
+全台灣道路地圖，上河文化，2003年。(十萬分之一)
+台灣衛星影像地圖集，上河文化，2003年。(五萬分之一)
+
+中華民國台灣地區三角點成果表，聯勤總部測量署，1970年。
+中華民國台灣地區三角點成果表 《三冊》，聯勤總部測量署，1980年。
+中央地質調查所設置之GPS 椿點位指示圖及路線圖，經濟部中央地質調查所，1999
+年。
+一等三角點暨東部海岸山脈踏查記錄及三角點明細，林崇雄編著，1999年。
+台灣二等三角點，林崇雄編著。
+台灣三等三角點《北部》《中部》《南部》《東部》，基石俱樂部、林崇雄編著。
+台灣三角點明細，中華民國山岳協會 : 藍天登山隊 ,基石俱樂部，2000年。
+大臺北地區郊山紙上登山導遊專輯 (1～4)/ 張茂盛記錄繪圖，2000～2002年。
+大臺北地區登山健行路線圖解，中華民國山岳協會 : 藍天登山隊編印，2002年。
+新竹山系，葉良枝、林榮松著，新竹市登山協會羚羊隊，2002年(附地圖)。(GPS坐標
+表)
+
+台灣堡圖（上、下）/臺灣總督府臨時臺灣土地調查局調製，遠流，1996年。
+(二萬分之一)
+日治時代二萬五千分之一台灣地形圖（附手冊），遠流，1998年。
+(二萬五千分之一)
+台灣山岳一覽表，王雲卿著，野外，1982年。
+北台灣自然旅遊指南，劉克襄著，晨星，2000年。
+蘭陽地區自然旅遊指南，吳永華著，晨星，2002年。
+北部郊山踏查行《第一集》，聯經，1982年。
+北部郊山踏查行《第二集》，聯經，1990年。
+臺灣登山百科全書(1-3) / 戶外生活雜誌編輯組編，1981年。
+北台灣名山大系，戶外生活，1980-81年。
+中台灣名山大系，戶外生活。
+南台灣名山大系，戶外生活。
+台灣高山湖泊導遊，林煙庭著，國民旅遊，1993年。
+湖泊紀事，上河文化，2000年。
+大台北山區健行登山導遊，國民旅遊，1996年。
+步道篇《增訂版》，陽明山國家公園，1999年。
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+----------------------------------
+
+【參考網頁】
+
+登山裝備
+http://www.aruba.org.tw/item/mt/mtbase.htm
+http://www2.nsysu.edu.tw/Mountain/trick/equipment.htm
+http://www.yzu.edu.tw/yzit/st/StdLifeSup/SafeBook/Page3.htm
+http://gis.tpc.gov.tw/Human2/Tourism/Climbing/EquipContent.html
+http://www.alpine.com.tw/product/check.htm
+http://www.cis.nctu.edu.tw/~is84077/picture/accounterment.htm
+http://www.spnp.gov.tw/chinese/information/clb-kit.htm
+http://www.knife.com.tw/knife/c005-013.html
+http://club.ntu.edu.tw/~NtuScout/Skills_ClimbingGear.html
+http://www.npp.gov.tw/service-1.htm
+　
+
+野外裝備
+http://earth.fg.tp.edu.tw/learn/geoout/geotool.htm
+
+賞鳥裝備
+http://bird.org.tw/watch/04.htm
+
+露營裝備
+http://www.outdoor.com.tw/info/land/luyin.htm
+http://210.60.239.32/77p/777103/but3_107.html
+
+溯溪裝備
+http://www.hisport.net.tw/specialy/specialy01b/
+
+奧林體育網
+http://big5.china.com/gate/big5/olymsports.china.com/
+
+
+地圖判讀
+http://content.edu.tw/junior/scouting/ul_edu/new_page_101.htm
+http://www.cyberscout.org/roland/exped/exped01.htm
+http://www.geog.ntu.edu.tw/course/physical/new_page_12.htm
+http://www.geog.ntu.edu.tw/course/physical/direct2.htm
+http://hk.geocities.com/wk96a/resources.htm
+http://rover.twbbs.org/rover/skill/s_direction/pos4.htm
+http://rover.twbbs.org/rover/skill/
+http://www.top.org.tw/
+
+課程
+http://www.geog.ntu.edu.tw/course/physical/new_page_8.htm
+http://w3.education.ntu.edu.tw/geog/news/principle5.htm
+http://www.ccit.edu.tw/~sury/f.html
+http://www.youth.com.tw/member/Plan_503.htm
+
+BBS
+http://bbs.thu.edu.tw/cgi-bin/bbsdoc?board=Mountain&go=A
+
+指北針用法
+http://www.geog.ntu.edu.tw/course/physical/direct.htm
+http://content.edu.tw/junior/scouting/tc_jr/208/brief04.htm
+
+氣壓計
+http://www.cwb.gov.tw/V3.0/knowledge/equip/equip_all.htm
+http://earth.fg.tp.edu.tw/learn/weather/instrument3.htm
+http://netcity2.web.hinet.net/userdata/tleo9999/
+http://bwc.hkcampus.net/~bwc-phys/Physicist/Bohr.htm
+
+GPS
+http://www.galaxyfareast.com.tw/service/content/gps.htm
+http://www.csrsr.ncu.edu.tw/information/communication/51/gpslab.html
+　
+
+海洋學概論
+http://140.112.68.243/chap1/chap1.htm
+
+定位運動
+http://www.hisport.net.tw/specialy/specialy40/specialy3.html
+http://home.pchome.com.tw/sport/nt_outdoor/school.htm
+http://www.hisport.net.tw/specialy/specialy40/specialy2.html
+http://home.kimo.com.tw/outdoortp/introduction.htm
+http://home4u.hongkong.com/_H4U/health/fitness/club/ohp3.htm
+
+徒走穿越
+http://202.130.245.40/chinese/TRsummer/65457.htm
+
+童軍技能
+http://www.scout.org.tw/~tp40/tkbook/books/tkbooks.htm
+http://www.scout.org.tw/worldscout/bch814.htm
+
+登山常識
+http://www.transoft.com.tw/MKNOW/TK0410.HTM
+http://www.scuber.com/page2.html
+
+自然公園
+http://www.pts.org.tw/~web02/nature/content2-5.htm
+
+台灣登山資料庫
+http://tagh.org/wen/database/
+
+登山補給站
+http://www.keepon.com.tw/
+
+台灣高山資訊站
+http://www.transoft.com.tw/TMIC/
+
+曾忠一的家
+http://www.sinica.edu.tw/~cytseng/
+
+天涯海角
+http://home.kimo.com.tw/yalyou/
+
+獨步山林間
+http://myweb.hinet.net/home1/kennyhpk/index.html
+
+八湮溪河谷遇險記
+http://home.pchome.com.tw/guide/janey_teng/
+http://home.pchome.com.tw/guide/janey_teng/A2.htm
+衛星定位系統於山難中之應用與心得
+
+Tony的自然人文旅記
+http://home.kimo.com.tw/tonyhuang38/
+
+台北行腳
+http://mirac.ee.ncku.edu.tw/~dhl/board/dhl/taipei_travel.html
+
+大明的登山日記
+http://home.kimo.com.tw/odnot.tw/
+
+Andy 山麓
+http://myweb.hinet.net/home1/andy0106/
+
+Koll 單身日記
+http://home.kimo.com.tw/koll2000.tw/index.htm
+
+Lizard 的登山小舖
+http://mt.tnl.org.tw/
+
+山林歲月
+http://climb.24cc.com/
+
+山中歲月
+http://home.kimo.com.tw/wincjing/
+
+
+雪霸國家公園
+http://www.spnp.gov.tw/
+
+墾丁國家公園
+http://www.ktnp.gov.tw/
+
+陽明山國家公園
+http://www.ymsnp.gov.tw/newhome/index.htm
+
+玉山國家公園
+http://www.ysnp.gov.tw/c_index.asp
+
+太魯閣國家公園
+http://www.taroko.gov.tw/indexc.php
+
+金門國家公園
+http://www.kmnp.gov.tw/main.htm
+
+中華民國山岳協會
+http://www.mountaineering.org.tw/main.asp
+
+中華民國健行登山會
+http://www.alpineclub.org.tw
+
+中華最高峰登山協會
+http://www.top.org.tw/
+
+台灣山林博物館
+http://taiwan-mountain.hihosting.hinet.net/index.asp
+
+台北縣登山會
+http://weber.lm.fju.edu.tw/~tmc/
+
+台中市長青登山協會
+http://home.kimo.com.tw/huanghiker/
+
+彰化縣登山協會
+http://v2.groups.com.tw/index.phtml?group_id=chmo
+
+高雄市網路登山協會
+http://www.emountain.org.tw/
+
+
+台灣國家山岳協會
+http://www.taiwanalpine.org.tw/
+
+天嵐登山健行社
+http://home.pchome.com.tw/life/saintw/
+
+阿魯巴
+http://www.climber.idv.tw/~aruba/
+
+登山網站大全
+http://a333.com/sport/climbing/climb-LRT-ch1.htm
+
+
+登山教室
+http://www.hisport.net.tw/hot/hot27/index1.html
+http://members.fortunecity.com/d140738/ord055.htm
+http://goat.sv.ncku.edu.tw/paper/mount3.htm
+http://tagh.org/wen/database/network.htm
+http://home.kimo.com.tw/tiger-kc/A2/A2.htm
+http://140.128.172.3/phy/phy1661_1.htm
+http://www.top.org.tw/data/climb.htm
+http://www.alpineclub.org.tw/
+http://home.pchome.com.tw/life/saintw/
+http://home.kimo.com.tw/odnot.tw/
+http://netcity2.web.hinet.net/userdata/jamesker/
+http://www.geocities.com/TheTropics/Coast/7193/
+
+登山手冊
+http://customer.anjes.com.tw/mountain/ynya-4.htm
+http://activesrv.cycu.edu.tw/E02/chinese/notebook/notebook.html
+
+登山地圖
+http://www.dortp.gov.tw/walk/walk.htm
+http://140.116.72.45/~dhl/board/dhl/taipei_travel.html
+http://www.keepon.com.tw/
+http://www.tpc.gov.tw/Tourism/OldPath/index0.html
+
+LINKS
+http://www.cc.nctu.edu.tw/~mclub/index1.html
+http://www.transoft.com.tw/TMIC/Stories.htm
+http://www.garmin.com.tw/aboutGPS/
+http://www.shimano.idv.tw/roadinfo/biketrip.htm
+http://map.fb09.forest.gov.tw/
+
+戶外教學
+http://www.tcssh.tc.edu.tw/resource/huoyan/huoyan_5.htm
+http://140.127.79.16/~adept/outexp/chunhun/handbook.htm
+http://www.wxp.ks.edu.tw/nature/
+http://140.111.119.130/~fiat/ume9.htm
+http://earth.fg.tp.edu.tw/learn/pito/tools.htm
+http://140.115.123.30/earth/edu/north/trace2/trace2.html
+http://ceiba.cc.ntu.edu.tw/20826720/course.html#Outline
+
+GIS工作室
+http://140.115.123.30/gis/topo/topo.htm
+
+[器材篇]
+http://www.dicking.com.tw/
+http://mw.w-web.com/compass1.htm
+http://www.swallow.com.tw/military/page20017.htm
+http://www.water-world.com.tw/access/gaudge.htm
+http://www.gpsstore.com.tw/misc/Disto.htm
+http://www.cpu.com.tw/kh/i/cwb/cwb.html
+http://www.sportime.com.tw/suunto.html
+http://home.kimo.com.tw/recreationprince/coolproduct/cool20010521.html
+http://www.water-world.com.tw/dive-pc/suunto-v.htm
+http://is6.pacific.net.hk/~dsichina/cweb/cdt600.htm
+http://www.silva.se/pressroom/multinav_pics.htm
+http://www.j-shop.com.tw/odgoods/outgoods.htm
+http://www.victorinox.com.tw/catalog/catalog.htm
+http://www.hwatang.com.tw/c/new/11.htm
+
+--
+
+     靈界並不關閉;
+
+  只是你的感覺閉塞，你的心死滅!
+
+--
+※ Origin: 海大計中 BBS ◆ From: 61-216-126-29.HINET-IP.hinet.net
+--
+
+     爬一次山
+                結一個緣
+                           圓一個爬山的夢
+                                            珍藏這美麗的夢
+                                                                 By 智文
+--
+※ Origin: 精靈之城<bbs.ntnu.edu.tw> ◆ From: 108.c210-58-242.ethome.net.tw

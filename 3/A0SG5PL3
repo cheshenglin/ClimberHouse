@@ -1,0 +1,30 @@
+ 發信人  swwang.bbs@cis.nctu.edu.tw (是時候了......)       信區  mountain
+ 標  題  Re: 請問什麼是風寒效應呀？？
+ 發信站  交大資科_BBS (Thu Jun 17 18:16:50 1999)
+ 轉信站  NTUST_MI!news.ee.ntust!news.ntust!news.civil.ncku!netnews.csie.nctu!ct
+ Origin  140.138.137.138
+
+==> 在 pinghu@m2.dj.net.tw 的文章中提到:
+> 若是沒有記錯的話 4 X (風速開根號)
+> 例如風速9米溫度12度之下感覺就會像零度
+ 沒錯！
+
+ 是這樣的：
+
+            體感溫度 = 實際溫度 - 4 * （風速）^.5
+
+ 我覺得要說明的是：
+
+     1.上述公式要用公制。
+
+     2.此公式不知如何測出，也不知從哪來的，但連原文書中都有。
+
+--
+                    ***********************************
+                     ***           S.W.Wang          ***
+                     ***     sway@ms12.url.com.tw    ***
+                     ***  s871725@mail86.yzu.edu.tw  ***
+                     ***********************************
+                      It's nice to meet you.   See you!
+--
+ * Origin: ★ 交通大學資訊科學系 BBS ★ <bbs.cis.nctu.edu.tw: 140.113.23.3>
